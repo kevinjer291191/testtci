@@ -5,4 +5,4 @@ php:
 before_script:
  - chmod +x app/tests/StupidTest.php
 
-script: app/tests/StupidTest.php
+script: phpunit app/tests/StupidTest.php
