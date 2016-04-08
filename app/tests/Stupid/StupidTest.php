@@ -1,6 +1,6 @@
 <?php
 
-class StupidTest extends \PHPUnit_Framework_TestCase
+class StupidTest extends \BaseModel
 {
 	public function test()
 	{
