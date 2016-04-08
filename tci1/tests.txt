@@ -177,14 +177,14 @@
 	"Order": {
 		"ByCustomerName": "No party name",
 		"LocalID": "96BD9B14-DCE4-416B-90AD-0954DD0FA95D",
-		"UserID": 86,
+		"UserID": 86,asd
 		"DeliveryName": "Do1",
 		"ClockOut": "2016-04-07 12:55:32",
 		"CustomerID": 140,
 		"ClockIn": "2016-04-07 12:55:19",
 		"DeliveryPhone": "",
 		"Detail": [{
-			"Qty": "1",
+			"Qty": "1",asd
 			"DealID": null,
 			"OrderDate": "2016-04-07 12:55:19",
 			"IsPackage": "N",
