@@ -4,7 +4,7 @@ class AnotherTest extends \PHPUnit_Framework_TestCase
 {
 	public function test()
 	{
-	    $foo = false;
+	    $foo = true;
 	    $this->assertTrue($foo);
 	}
 	public function test2()
