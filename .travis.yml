@@ -2,4 +2,4 @@ language: php
 php:
   - '5.6'
   
-script: tests/case-1.php
+script: app/tesdts/StupidTest.php
