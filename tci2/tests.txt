@@ -184,7 +184,7 @@
 		"ClockIn": "2016-04-07 12:55:19",
 		"DeliveryPhone": "",
 		"Detail": [{
-			"Qty": "1",
+			"Qty": "1",asd
 			"DealID": null,
 			"OrderDate": "2016-04-07 12:55:19",
 			"IsPackage": "N",
