@@ -1,6 +1,6 @@
 <?php
 
-namespace HellobillTest\Cases;
+namespace HellobillTest\cases;
 
 class SampleTest extends \HellobillTest\Src\BaseModel
 {
