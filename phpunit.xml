@@ -2,7 +2,11 @@
 <phpunit colors="true">
     <testsuites>
         <testsuite name="Application Test Suite">
-            <directory>./app/tests/</directory>
+            <directory>./tests/</directory>
         </testsuite>
     </testsuites>
+
+     <php>
+         <env name="BaseURL" value="firefox"/>
+     </php>
 </phpunit>
