@@ -1,6 +1,6 @@
 <?php
 
-namespace HellobillTest\src;
+namespace HellobillTest\Src;
 
 abstract class BaseModel extends \PHPUnit_Framework_TestCase  
 {

@@ -1,15 +1,9 @@
 <?php
 
-namespace HellobillTest\cases;
 
-class SampleTest extends \HellobillTest\src\BaseModel
+class SampleTest extends \PHPUnit_Framework_TestCase  
 {
 
-
-	public function testParent(){
-		$this->assertSame($this->functionok(), "function ok");
-
-	}
 	public function testEnvironment(){
 		$this->assertSame(getenv('BaseURL'), "firefox");
 	}
