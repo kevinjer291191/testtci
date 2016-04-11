@@ -1,0 +1,17 @@
+{
+    "Token": "dev-jwttest",
+	"Data": {
+		"Attr1" : 1,
+		"Attr2" : "2"
+	},
+	"DataArray" : [
+		{
+			"No" : 1,
+			"Name" : "John"
+		},
+		{
+			"No" : 2,
+			"Name" : "Smith"
+		}
+	]
+}
