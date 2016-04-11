@@ -9,7 +9,7 @@ class SampleTest extends \HellobillTest\Src\BaseModel
 	public function testParent(){
 		$this->assertSame($this->functionok(), "function ok");
 
-	}	
+	}
 	public function testEnvironment(){
 		$this->assertSame(getenv('BaseURL'), "firefox");
 	}
