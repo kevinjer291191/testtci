@@ -2,7 +2,7 @@
 
 namespace HellobillTest\cases;
 
-class SampleTest extends \HellobillTest\Src\BaseModel
+class SampleTest extends \HellobillTest\src\BaseModel
 {
 
 
